@@ -11,9 +11,9 @@ Goal: create an MVP clone of [Eventbrite](http://www.eventbrite.com/) using RoR.
 - [x] Create Login/Logout/Register/etc.
 ### Functionality:
 
-- [ ] Users should be able to create events
+- [x] Users should be able to create events
 - [ ] Users should be able to attend events
-- [ ] The organizer should be able to invite or expell attendees at any time
+- [ ] Users should only appear once on the attendee list
 ### Views:
 
 - [x] Add bootstrap
