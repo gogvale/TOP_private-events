@@ -7,8 +7,8 @@ Goal: create an MVP clone of [Eventbrite](http://www.eventbrite.com/) using RoR.
 
 ### Modeling:
 - [x] Create an Event model with Name, Date and Location
-- [ ] Create a basic user Model with authentication
-- [ ] Create Login/Logout/Register/etc.
+- [x] Create a basic user Model with authentication
+- [x] Create Login/Logout/Register/etc.
 ### Functionality:
 
 - [ ] Users should be able to create events
