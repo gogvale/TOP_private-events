@@ -16,6 +16,7 @@ Goal: create an MVP clone of [Eventbrite](http://www.eventbrite.com/) using RoR.
 - [ ] The organizer should be able to invite or expell attendees at any time
 ### Views:
 
+- [x] Add bootstrap
 - [ ] Front page view
 - [ ] Separate future and previous events
 - [ ] Event details
