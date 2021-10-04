@@ -4,4 +4,7 @@ class Event < ApplicationRecord
 
   validates_uniqueness_of :organizer
   validates_presence_of :name, :location, :date
+
+  scope :upcoming, -> { where('date >= ?', DateTime.now.beginning_of_day) }
+  scope :previous, -> { where('date < ?', DateTime.now.beginning_of_day) }
 end

@@ -17,7 +17,7 @@ Goal: create an MVP clone of [Eventbrite](http://www.eventbrite.com/) using RoR.
 ### Views:
 
 - [x] Add bootstrap
-- [ ] Front page view
-- [ ] Separate future and previous events
+- [x] Front page view
+- [x] Separate future and previous events
 - [ ] Event details
-- [ ] Sign [up|in|out] views
+- [x] Sign [up|in|out] views
